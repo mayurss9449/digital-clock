@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url("https://images.pexels.com/photos/2166711/pexels-photo-2166711.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")no-repeat;
+    background: url("https://i.pinimg.com/originals/a6/e7/46/a6e7468371ba3b3c3dc212b3ef54cd9c.jpg")no-repeat;
     background-size: cover ;
 }
 
@@ -31,7 +31,7 @@ body{
 .clock h1{
     font-size: 3.5rem;
     font-weight: 600;
-
+    color: orangered;
 }
 
 .clock span{
@@ -40,7 +40,7 @@ body{
     margin-left: 5px;
     font-size: 20px;
     font-weight: 700;
-    align-items: center;
+    color: orangered;
 }
 
 
